@@ -1,2 +1,6 @@
 # Hummingbird-MLAgent
 Checking out Adam Kelly's Machine Learning Agent Lessons on learn.unity.com... 
+
+Adam utilizes Anaconda to manage Python 3.7 and malagent.  Noting that June 2020 Unity's github has depracated Anaconda in the docs... 
+
+I will use Anaconda but then after Adam's lessons are done, I will check out the latest methods! :)
